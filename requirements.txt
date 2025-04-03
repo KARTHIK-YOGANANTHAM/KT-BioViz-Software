@@ -1,0 +1,19 @@
+-------------------------------
+NEED PYTHON TO BE INSTALLED (Python above v9)
+If not installed, install it through:
+https://www.python.org/downloads/
+--------------------------------
+Need to intall several pip packages through commond prompt
+
+Required packages :
+1. streamlit
+2. seaborn
+3. statsmodels
+4. matplotlib
+5. scikit-learn
+6. pandas (default)
+7. numpy (default)
+
+Above packages can be intalled through command prompt :
+
+pip install stramlit seaborn statsmodels matplotlib scikit-learn 
