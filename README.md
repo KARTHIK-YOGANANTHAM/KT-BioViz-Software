@@ -51,7 +51,7 @@ pip run requirements.txt
 5. Run the app.py file through `streamlit run app.py` command.
 
 ### 🔹 Option 2: Install as a `.exe` file
-1. Download the `biovizsetup.exe` setup file from the setup folder
+1. Download the `biovizsetup.exe` setup file from the setup_file.txt file by accessing the link or download the setup by [clicking here](https://drive.google.com/file/d/1-eSLfbaM67wKKmaSpej8nyDKJ0Qn_b4t/view?usp=drive_link )
 2. Install the setup in the designated folder
 3. Run the app.
 4. **Required** : Python v8.0+ to be installed within system or download and install by [clicking here](https://www.python.org/downloads/)
